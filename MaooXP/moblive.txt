@@ -2046,7 +2046,7 @@ Beam FM - Taiwan,https://ice1.streeemer.com:8030/radio.aac
 Big Big MIX（TW）,https://play.gojoy.org/audio/stream
 Jazz Radio 當代爵士音樂,https://ec3.yesstreaming.net:3455/stream
 Rádio 80 FM - Anos 80,https://centova.euroti.com.br:20001/1/stream.mp3
-République RFI,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+République française RFI,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 Raggakings 雷鬼音樂網路電台,https://raggakings.radio:8443/stream.ogg
 Taiwan Lounge Radio,https://azuracast.conceptradio.fr/radio/8030/stream.mp3
 WQXR-FM 紐約愛樂電台,https://stream.wqxr.org/wqxr
@@ -2144,7 +2144,7 @@ HITFM国际流行音乐,https://sk.cri.cn/887.m3u8
 湖北经济广播,https://satellitepull.cnr.cn/live/wx32hubjjgb/playlist.m3u8
 湖北农村广播,https://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8
 湖北生活广播,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
-湖北之声,https://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
+湖北之声广播,https://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
 湖北资讯广播,https://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
 
 湖南交通广播,https://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
@@ -2369,8 +2369,8 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 
 安徽MUSIC876
 安庆交通音乐广播,https://lhttp-hw.qtfm.cn/live/1966/64k.mp3
-安庆综合广播,https://lhttp-hw.qtfm.cn/live/1965/64k.mp3
-包河之声电台,https://lhttp-hw.qtfm.cn/live/5022668/64k.mp3
+安庆新闻综合广播,https://lhttp-hw.qtfm.cn/live/1965/64k.mp3
+包河之声电台广播,,https://lhttp-hw.qtfm.cn/live/5022668/64k.mp3
 亳州交通音乐广播,https://lhttp-hw.qtfm.cn/live/20212419/64k.mp3
 亳州新闻综合广播,https://lhttp-hw.qtfm.cn/live/20207787/64k.mp3
 池州交通旅游广播(fm96.6),https://lhttp-hw.qtfm.cn/live/4839/64k.mp3
@@ -2381,7 +2381,7 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 阜阳交通广播,https://lhttp-hw.qtfm.cn/live/1971/64k.mp3
 阜阳经济广播,https://lhttp-hw.qtfm.cn/live/5022571/64k.mp3
 阜阳综合广播,https://lhttp-hw.qtfm.cn/live/1970/64k.mp3
-固镇人民广播电台,https://lhttp-hw.qtfm.cn/live/20500125/64k.mp3
+固镇人民广播,https://lhttp-hw.qtfm.cn/live/20500125/64k.mp3
 合肥故事广播,https://lhttp-hw.qtfm.cn/live/1961/64k.mp3
 怀远之声广播,https://lhttp-hw.qtfm.cn/live/5021993/64k.mp3
 淮南交通广播,https://lhttp-hw.qtfm.cn/live/4843/64k.mp3
@@ -2401,7 +2401,7 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 铜陵新闻综合广播,https://lhttp-hw.qtfm.cn/live/21303/64k.mp3
 芜湖交通经济广播,https://lhttp-hw.qtfm.cn/live/5027/64k.mp3
 芜湖音乐故事广播,https://lhttp-hw.qtfm.cn/live/5028/64k.mp3
-芜湖综合广播,https://lhttp-hw.qtfm.cn/live/5029/64k.mp3
+芜湖新闻综合广播,https://lhttp-hw.qtfm.cn/live/5029/64k.mp3
 宣城广播电视台综合广播,https://lhttp-hw.qtfm.cn/live/5022/64k.mp3
 宣城交通1061,https://lhttp-hw.qtfm.cn/live/5023/64k.mp3
 颍上FM962,https://lhttp-hw.qtfm.cn/live/20500039/64k.mp3
@@ -2414,8 +2414,8 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 北京音乐广播,https://lhttp-hw.qtfm.cn/live/332/64k.mp3
 大兴人民广播,https://lhttp-hw.qtfm.cn/live/5021739/64k.mp3
 怀旧音乐广播,https://lhttp-hw.qtfm.cn/live/20211619/64k.mp3
-京津冀之声,https://lhttp-hw.qtfm.cn/live/5022463/64k.mp3
-流行音乐广播,https://lhttp-hw.qtfm.cn/live/20211620/64k.mp3
+京津冀之声广播,https://lhttp-hw.qtfm.cn/live/5022463/64k.mp3
+流行好音乐广播,https://lhttp-hw.qtfm.cn/live/20211620/64k.mp3
 年代音乐怀旧好声音,https://lhttp-hw.qtfm.cn/live/5021381/64k.mp3
 
 重庆
@@ -2444,7 +2444,7 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 
 海峡之声广播电台
 龙岩电台综合广播,https://lhttp-hw.qtfm.cn/live/20709/64k.mp3
-龙岩旅游之声,https://lhttp-hw.qtfm.cn/live/20711/64k.mp3
+龙岩旅游之声广播,https://lhttp-hw.qtfm.cn/live/20711/64k.mp3
 南安广播电视台综合广播,https://lhttp-hw.qtfm.cn/live/5021731/64k.mp3
 泉州904交通之声,https://lhttp-hw.qtfm.cn/live/15318189/64k.mp3
 泉州刺桐之声,https://lhttp-hw.qtfm.cn/live/5022360/64k.mp3
@@ -2453,7 +2453,7 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 沙溪之声995,https://lhttp-hw.qtfm.cn/live/5021998/64k.mp3
 厦门892集美广播,https://lhttp-hw.qtfm.cn/live/5022479/64k.mp3
 厦门经济交通广播,https://lhttp-hw.qtfm.cn/live/1738/64k.mp3
-厦门旅游广播,https://lhttp-hw.qtfm.cn/live/1741/64k.mp3
+厦门旅游之声广播,https://lhttp-hw.qtfm.cn/live/1741/64k.mp3
 厦门闽南之声广播,https://lhttp-hw.qtfm.cn/live/1740/64k.mp3
 厦门音乐广播,https://lhttp-hw.qtfm.cn/live/1739/64k.mp3
 厦门综合广播,https://lhttp-hw.qtfm.cn/live/1737/64k.mp3
@@ -2469,11 +2469,11 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 甘肃交通广播,https://lhttp-hw.qtfm.cn/live/3939/64k.mp3
 甘肃经济广播,https://lhttp-hw.qtfm.cn/live/4045/64k.mp3
 甘肃青春调频,https://lhttp-hw.qtfm.cn/live/4675/64k.mp3
-甘肃新闻综合广播,https://lhttp-hw.qtfm.cn/live/5022622/64k.mp3
+甘肃新闻广播,https://lhttp-hw.qtfm.cn/live/5022622/64k.mp3
 定西交通广播,https://lhttp-hw.qtfm.cn/live/20212230/64k.mp3
 天水交通广播FM91.9,https://lhttp-hw.qtfm.cn/live/20211613/64k.mp3
 天水音乐文艺广播,https://lhttp-hw.qtfm.cn/live/21251/64k.mp3
-天水综合广播,https://lhttp-hw.qtfm.cn/live/20460/64k.mp3
+天水新闻综合广播,https://lhttp-hw.qtfm.cn/live/20460/64k.mp3
 张掖新闻综合广播,https://lhttp-hw.qtfm.cn/live/5022096/64k.mp3
 综合广播FM106.6,https://lhttp-hw.qtfm.cn/live/15318602/64k.mp3
 
@@ -2482,28 +2482,28 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 广东广播电视台股市广播,https://lhttp-hw.qtfm.cn/live/4847/64k.mp3
 广东广播电视台文体广播,https://lhttp-hw.qtfm.cn/live/471/64k.mp3
 广东广播电视台珠江之声,https://lhttp-hw.qtfm.cn/live/470/64k.mp3
-广东南方生活广播,https://lhttp-hw.qtfm.cn/live/468/64k.mp3
+广东南方生活,https://lhttp-hw.qtfm.cn/live/468/64k.mp3
 广东新闻广播,https://lhttp-hw.qtfm.cn/live/1254/64k.mp3
 广东音乐之声,https://lhttp-hw.qtfm.cn/live/1260/64k.mp3
 广东珠江经济电台,https://lhttp-hw.qtfm.cn/live/1259/64k.mp3
 潮州交通音乐广播,https://lhttp-hw.qtfm.cn/live/4594/64k.mp3
-潮州综合频率,https://lhttp-hw.qtfm.cn/live/4596/64k.mp3
+潮州综合频率广播,https://lhttp-hw.qtfm.cn/live/4596/64k.mp3
 澄海人民广播电台,https://lhttp-hw.qtfm.cn/live/5022439/64k.mp3
 从化广播电视台综合广播,https://lhttp-hw.qtfm.cn/live/15318698/64k.mp3
 东莞交通广播,https://lhttp-hw.qtfm.cn/live/1288/64k.mp3
 东莞音乐广播,https://lhttp-hw.qtfm.cn/live/21209/64k.mp3
 东莞综合广播,https://lhttp-hw.qtfm.cn/live/1276/64k.mp3
 东源广播电台,https://lhttp-hw.qtfm.cn/live/20500124/64k.mp3
-恩平FM97.7,https://lhttp-hw.qtfm.cn/live/20701/64k.mp3
+恩平广播FM97.7,https://lhttp-hw.qtfm.cn/live/20701/64k.mp3
 番禺电台畅快1017,https://lhttp-hw.qtfm.cn/live/20212427/64k.mp3
-佛冈电台,https://lhttp-hw.qtfm.cn/live/15318379/64k.mp3
+佛冈电台广播,https://lhttp-hw.qtfm.cn/live/15318379/64k.mp3
 佛山电台FM906,https://lhttp-hw.qtfm.cn/live/1264/64k.mp3
 广州MYFM 88.0,https://lhttp-hw.qtfm.cn/live/20194/64k.mp3
 广州交通广播,https://lhttp-hw.qtfm.cn/live/4955/64k.mp3
 广州汽车音乐电台,https://lhttp-hw.qtfm.cn/live/20192/64k.mp3
 广州新闻资讯广播,https://lhttp-hw.qtfm.cn/live/4848/64k.mp3
 广州羊城交通台,https://lhttp-hw.qtfm.cn/live/1262/64k.mp3
-鹤山电台,https://lhttp-hw.qtfm.cn/live/1286/64k.mp3
+鹤山电台广播,https://lhttp-hw.qtfm.cn/live/1286/64k.mp3
 花都广播电台,https://lhttp-hw.qtfm.cn/live/1263/64k.mp3
 化州人民广播电台,https://lhttp-hw.qtfm.cn/live/15318689/64k.mp3
 惠州经济环保广播,https://lhttp-hw.qtfm.cn/live/5017/64k.mp3
@@ -2531,11 +2531,11 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 遂溪人民广播电台,https://lhttp-hw.qtfm.cn/live/1284/64k.mp3
 台山人民广播电台,https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3
 新会人民广播电台,https://lhttp-hw.qtfm.cn/live/5061/64k.mp3
-新兴电台,https://lhttp-hw.qtfm.cn/live/20211602/64k.mp3
+新兴电台广播电台,https://lhttp-hw.qtfm.cn/live/20211602/64k.mp3
 兴宁市融媒体中心综合广播,https://lhttp-hw.qtfm.cn/live/20500218/64k.mp3
 阳江旅游环保广播,https://lhttp-hw.qtfm.cn/live/15318428/64k.mp3
 阳江综合资讯广播,https://lhttp-hw.qtfm.cn/live/15318429/64k.mp3
-英德电台,https://lhttp-hw.qtfm.cn/live/5022392/64k.mp3
+英德电台广播,https://lhttp-hw.qtfm.cn/live/5022392/64k.mp3
 云浮电台交通音乐广播,https://lhttp-hw.qtfm.cn/live/5022441/64k.mp3
 云浮电台综合广播,https://lhttp-hw.qtfm.cn/live/5022442/64k.mp3
 增城电台FM89.0,https://lhttp-hw.qtfm.cn/live/20211702/64k.mp3
@@ -2555,8 +2555,8 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 广西北部湾之声,https://lhttp-hw.qtfm.cn/live/1757/64k.mp3
 广西电台新闻910,https://lhttp-hw.qtfm.cn/live/1753/64k.mp3
 广西交通台,https://lhttp-hw.qtfm.cn/live/1758/64k.mp3
-广西私家车930,https://lhttp-hw.qtfm.cn/live/1756/64k.mp3
 广西音乐台,https://lhttp-hw.qtfm.cn/live/4875/64k.mp3
+广西私家车930,https://lhttp-hw.qtfm.cn/live/1756/64k.mp3
 南宁990新闻台,https://lhttp-hw.qtfm.cn/live/20358/64k.mp3
 北海交通音乐广播,https://lhttp-hw.qtfm.cn/live/20211621/64k.mp3
 北海新闻综合广播,https://lhttp-hw.qtfm.cn/live/20861/64k.mp3
@@ -2599,7 +2599,7 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 黔西南FM88.3交通旅游广播,https://lhttp-hw.qtfm.cn/live/5046/64k.mp3
 桐梓人民广播电台—娄山之声,https://lhttp-hw.qtfm.cn/live/20212410/64k.mp3
 铜仁交通旅游广播,https://lhttp-hw.qtfm.cn/live/20211615/64k.mp3
-铜仁综合广播,https://lhttp-hw.qtfm.cn/live/15318695/64k.mp3
+铜仁新闻综合广播,https://lhttp-hw.qtfm.cn/live/15318695/64k.mp3
 威宁阳光945,https://lhttp-hw.qtfm.cn/live/5022342/64k.mp3
 习水新闻综合广播FM908,https://lhttp-hw.qtfm.cn/live/15318201/64k.mp3
 兴仁人民广播电台,https://lhttp-hw.qtfm.cn/live/20500077/64k.mp3
@@ -2618,7 +2618,7 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 海口综合广播,https://lhttp-hw.qtfm.cn/live/5022015/64k.mp3
 琼海人民广播电台,https://lhttp-hw.qtfm.cn/live/5022287/64k.mp3
 三亚天涯之声,https://lhttp-hw.qtfm.cn/live/20450/64k.mp3
-三亚之声,https://lhttp-hw.qtfm.cn/live/15318203/64k.mp3
+三亚之声广播,https://lhttp-hw.qtfm.cn/live/15318203/64k.mp3
 
 河北
 河北故事广播,https://lhttp-hw.qtfm.cn/live/1645/64k.mp3
@@ -2642,8 +2642,8 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 沧州音乐广播FM103.6,https://lhttp-hw.qtfm.cn/live/5021902/64k.mp3
 承德交通文艺广播,https://lhttp-hw.qtfm.cn/live/15318216/64k.mp3
 承德旅游生活广播,https://lhttp-hw.qtfm.cn/live/15318158/64k.mp3
-承德综合广播,https://lhttp-hw.qtfm.cn/live/20500052/64k.mp3
-崇礼综合广播,https://lhttp-hw.qtfm.cn/live/20500100/64k.mp3
+承德新闻综合广播,https://lhttp-hw.qtfm.cn/live/20500052/64k.mp3
+崇礼新闻综合广播,https://lhttp-hw.qtfm.cn/live/20500100/64k.mp3
 磁县融媒综合广播,https://lhttp-hw.qtfm.cn/live/20500116/64k.mp3
 定州交通音乐广播,https://lhttp-hw.qtfm.cn/live/20211638/64k.mp3
 动听913（宣化区融媒体中心综合广播）,https://lhttp-hw.qtfm.cn/live/15318538/64k.mp3
@@ -2651,7 +2651,7 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 峰峰人民广播电台,https://lhttp-hw.qtfm.cn/live/20500109/64k.mp3
 邯郸都市生活广播,https://lhttp-hw.qtfm.cn/live/3951/64k.mp3
 邯郸交通广播,https://lhttp-hw.qtfm.cn/live/3950/64k.mp3
-邯郸新闻综合广播,https://lhttp-hw.qtfm.cn/live/5072/64k.mp3
+邯郸新闻广播,https://lhttp-hw.qtfm.cn/live/5072/64k.mp3
 邯郸音乐广播,https://lhttp-hw.qtfm.cn/live/4601/64k.mp3
 河间市融媒体中心综合广播,https://lhttp-hw.qtfm.cn/live/15318503/64k.mp3
 衡水湖城之声961,https://lhttp-hw.qtfm.cn/live/5021857/64k.mp3
@@ -2672,7 +2672,7 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 秦皇岛1038私家车广播,https://lhttp-hw.qtfm.cn/live/20859/64k.mp3
 秦皇岛交通广播,https://lhttp-hw.qtfm.cn/live/20849/64k.mp3
 秦皇岛生活广播,https://lhttp-hw.qtfm.cn/live/20857/64k.mp3
-秦皇岛新闻综合广播,https://lhttp-hw.qtfm.cn/live/20855/64k.mp3
+秦皇岛新闻广播,https://lhttp-hw.qtfm.cn/live/20855/64k.mp3
 秦皇岛音乐广播,https://lhttp-hw.qtfm.cn/live/20835/64k.mp3
 青春调频 FM105.4,https://lhttp-hw.qtfm.cn/live/20212203/64k.mp3
 曲阳融媒FM90.4,https://lhttp-hw.qtfm.cn/live/20500219/64k.mp3
@@ -2684,19 +2684,19 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 石家庄新闻广播,https://lhttp-hw.qtfm.cn/live/1652/64k.mp3
 石家庄音乐广播,https://lhttp-hw.qtfm.cn/live/1654/64k.mp3
 肃宁融媒体中心综合广播,https://lhttp-hw.qtfm.cn/live/20500183/64k.mp3
-唐山交通文艺,https://lhttp-hw.qtfm.cn/live/1659/64k.mp3
+唐山交通文艺广播,https://lhttp-hw.qtfm.cn/live/1659/64k.mp3
 唐山经济生活广播,https://lhttp-hw.qtfm.cn/live/15318431/64k.mp3
 唐山小说娱乐广播,https://lhttp-hw.qtfm.cn/live/1660/64k.mp3
-唐山新闻综合,https://lhttp-hw.qtfm.cn/live/1657/64k.mp3
-唐山音乐广播,https://lhttp-hw.qtfm.cn/live/4871/64k.mp3
+唐山新闻综合广播,https://lhttp-hw.qtfm.cn/live/1657/64k.mp3
+唐山音乐娱乐广播,https://lhttp-hw.qtfm.cn/live/4871/64k.mp3
 魏县鸭梨音乐广播,https://lhttp-hw.qtfm.cn/live/20212412/64k.mp3
 武安融媒综合广播,https://lhttp-hw.qtfm.cn/live/5022474/64k.mp3
-犀牛电台,https://lhttp-hw.qtfm.cn/live/20211668/64k.mp3
-献县人民广播电台,https://lhttp-hw.qtfm.cn/live/5022603/64k.mp3
+犀牛电台广播,https://lhttp-hw.qtfm.cn/live/20211668/64k.mp3
+献县人民广播,https://lhttp-hw.qtfm.cn/live/5022603/64k.mp3
 辛集融媒体中心综合广播,https://lhttp-hw.qtfm.cn/live/5021959/64k.mp3
 邢台交通音乐广播,https://lhttp-hw.qtfm.cn/live/15318481/64k.mp3
 邢台经济生活广播,https://lhttp-hw.qtfm.cn/live/15318265/64k.mp3
-邢台综合广播,https://lhttp-hw.qtfm.cn/live/20211628/64k.mp3
+邢台新闻综合广播,https://lhttp-hw.qtfm.cn/live/20211628/64k.mp3
 张家口1074综合广播,https://lhttp-hw.qtfm.cn/live/15318285/64k.mp3
 张家口986音乐广播,https://lhttp-hw.qtfm.cn/live/5021801/64k.mp3
 张家口交通广播,https://lhttp-hw.qtfm.cn/live/5021910/64k.mp3
@@ -2724,7 +2724,7 @@ CRI劲曲调频 HITFM,https://sk.cri.cn/887.m3u8
 鸡西综合广播,https://lhttp-hw.qtfm.cn/live/20500089/64k.mp3
 佳木斯文艺交通广播,https://lhttp-hw.qtfm.cn/live/20500022/64k.mp3
 龙广都市女性台,https://lhttp-hw.qtfm.cn/live/4968/64k.mp3
-龙广新闻台,https://lhttp-hw.qtfm.cn/live/4974/64k.mp3
+龙广新闻综合台,https://lhttp-hw.qtfm.cn/live/4974/64k.mp3
 牡丹江交通广播,https://lhttp-hw.qtfm.cn/live/5022354/64k.mp3
 牡丹江经济广播,https://lhttp-hw.qtfm.cn/live/5022435/64k.mp3
 牡丹江综合广播,https://lhttp-hw.qtfm.cn/live/5022434/64k.mp3
