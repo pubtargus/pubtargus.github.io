@@ -95,23 +95,23 @@ CCTV-14,http://39.134.67.110/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-15,http://39.134.67.110/PLTV/88888888/224/3221225513/1.m3u8
 CCTV-16,http://39.134.67.110/PLTV/88888888/224/3221225893/1.m3u8
 CCTV-17,http://39.134.67.110/PLTV/88888888/224/3221225708/1.m3u8
-CCTV-4欧洲,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
+CCTV-4欧洲,http://thhomes.cn:4000/udp/239.3.1.213:4220
 CCTV-4欧洲,http://pve.grayidea.com:4022/udp/239.3.1.213:4220
 CCTV-4欧洲,http://webmail.axxe.top:4022/udp/239.3.1.213:4220
-CCTV-4美洲,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
+CCTV-4美洲,http://thhomes.cn:4000/udp/239.3.1.214:4220
 CCTV-4美洲,http://pve.grayidea.com:4022/udp/239.3.1.214:4220
 CCTV-4美洲,http://webmail.axxe.top:4022/udp/239.3.1.214:4220
-CETV-1中教,http://drive.mxmy.net:8888/udp/239.3.1.57:8152
+CETV-1中教,http://thhomes.cn:4000/udp/239.3.1.57:8152
 CETV-1中教,http://pve.grayidea.com:4022/udp/239.3.1.57:8152
 CETV-1中教,http://webmail.axxe.top:4022/udp/239.3.1.57:8152
-CETV-2中教,http://drive.mxmy.net:8888/udp/239.3.1.54:4120
+CETV-2中教,http://thhomes.cn:4000/udp/239.3.1.54:4120
 CETV-2中教,http://ikuai.zlsip.top:4022/udp/239.3.1.54:4120
 CETV-2中教,http://pve.grayidea.com:4022/udp/239.3.1.54:4120
 CETV-2中教,http://webmail.axxe.top:4022/udp/239.3.1.54:4120
-CETV-3中教,http://drive.mxmy.net:8888/udp/239.3.1.55:4120
+CETV-3中教,http://thhomes.cn:4000/udp/239.3.1.55:4120
 CETV-3中教,http://pve.grayidea.com:4022/udp/239.3.1.55:4120
 CETV-3中教,http://webmail.axxe.top:4022/udp/239.3.1.55:4120
-CETV-4中教,http://drive.mxmy.net:8888/udp/239.3.1.56:4120
+CETV-4中教,http://thhomes.cn:4000/udp/239.3.1.56:4120
 CETV-4中教,http://pve.grayidea.com:4022/udp/239.3.1.56:4120
 CETV-4中教,http://webmail.axxe.top:4022/udp/239.3.1.56:4120
 CGTN-英语,https://0472.org/hls/cgtn.m3u8
@@ -166,9 +166,9 @@ CCTV-央视文化精品,http://ddns.cyruslee.top:8888/udp/239.253.43.13:5146
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
-CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
-CHC影谜电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
+CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
+CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 1905电影频道,http://cdn.jdshipin.com:8880/1905ts.php?id=cctv6
 1905电影国内,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
 1905电影国外,http://cdn.jdshipin.com:8880/1905ts.php?id=1905b
@@ -628,9 +628,14 @@ NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 凤凰中文频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰中文频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+澳门莲花频道,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+澳门莲花频道,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
 澳门莲花频道,http://php.jdshipin.com:8880/amlh.php
-中天新闻频道,https://wuai.pub/ctinews
-中天电视频道,https://wuai.pub/ctinews2
+中天新闻频道,https://ibf.tw/1Unk3
+中天电视频道,https://ibf.tw/wDF5b
 中天电视频道,http://litv.zapi.us.kg/?id=4gtv-4gtv109
 中天新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 东森新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv152
@@ -815,36 +820,36 @@ TRACEU频道,http://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv082
 MEZZOl频道,http://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv083
 Ginx_TV频道,http://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv053
 
-凤凰卫视频国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd
-凤凰资讯频国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixinfo_hd
-凤凰香港频国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hkphoenix_twn
-中天新闻频国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctinews
-广东珠江频粤,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhujiang
-有线新闻频粤,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hoycaijing_twn
-无线新闻频粤,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=inews_twn
-无线翡翠频粤,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn
-无线华丽频粤,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Wlt
-无线华丽频国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbjade
-无线明珠频粤,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=pearl_twn
-无线娱乐频粤,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbentertainment
-无线星河频粤,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xinhe
-千禧经典频粤,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvbclassic
-Plus无线频粤,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=j2_twn
-VIUTV粤频道,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viu1_twn
-VIUTV英频道,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viusix_twn
-RTHK-31频粤,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn
-RTHK-32频粤,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk32_twn
-美亚电影频闽,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=meiyamovie_twn
-天映频道马国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestialindo
-天映频道闽国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestial
-天映经典频国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestial2
-龙华电影频国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=xingwei_movie
-龙祥电影频国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lungxiangtime_twn
-纬来电影频国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandmovie
-东森电影频国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie
-Astr爱奇艺国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Qiyi
-AstrQJ频道国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Quanjia
-Astr欢喜频国,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Huahee
+凤凰卫视频国,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
+凤凰资讯频国,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
+凤凰香港频国,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
+中天新闻频国,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+广东珠江频粤,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
+有线新闻频粤,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
+无线新闻频粤,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
+无线翡翠频粤,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
+无线华丽频粤,https://smart.pendy.dpdns.org/Smart.php?id=Wlt
+无线华丽频国,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
+无线明珠频粤,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
+无线娱乐频粤,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
+无线星河频粤,https://smart.pendy.dpdns.org/Smart.php?id=Xinhe
+千禧经典频粤,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
+Plus无线频粤,https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
+VIUTV粤频道,https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
+VIUTV英频道,https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
+RTHK-31频粤,https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
+RTHK-32频粤,https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
+美亚电影频闽,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
+天映频道马国,https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
+天映频道闽国,https://smart.pendy.dpdns.org/Smart.php?id=Celestial
+天映经典频国,https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
+龙华电影频国,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
+龙祥电影频国,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
+纬来电影频国,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+东森电影频国,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
+Astr爱奇艺国,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
+AstrQJ频道国,https://smart.pendy.dpdns.org/Smart.php?id=Quanjia
+Astr欢喜频国,https://smart.pendy.dpdns.org/Smart.php?id=Huahee
 
 🌴自然｜探索,#genre#
 大太平洋,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2d7f4eeaed2e4ad080bcf324eb21bc0d/4000.m3u8
@@ -2827,8 +2832,6 @@ HAPPY,P2p://ns1.hellotvvod.com:9906/e0f27b1dc3f34298b020a47e396471fc
 卫星机房专用30,http://194.116.150.47:1935/vxtv/live_720p/chunklist_w1156491225.m3u8
 卫星机房专用36,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
 卫星机房专用38,http://static.brazzers.com/scenes/7029/180sec.flv
-迈阿密电,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
-迈阿密电,http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
 彩虹e台,mitv://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
 彩虹电影台,mitv://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
 LOOKTV,mitv://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
@@ -2842,7 +2845,7 @@ PLAYBOY,mitv://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
 JStar极限台,mitv://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
 HAPPY,mitv://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
 K频道,mitv://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
-松视1欧美版,http://live.redtraffic.xyz:80/
+松视1欧美版,http://live.redtraffic.xyz:80/teen.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
 松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
 松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
@@ -2852,9 +2855,9 @@ K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
 粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
 玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
-迈阿密电,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-迈阿密电,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
-迈阿密电,http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
+迈阿密电台,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+迈阿密电台,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+迈阿密电台,http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
 松视2台,P2p://ns1.hellotvvod.com:9906/70bb5dd46a13492283c13b26c363e0e0
 PLAYBOY,P2p://ns1.hellotvvod.com:9906/e29e313adde24d83b11f8f6d01dd286e
 香蕉台,P2p://ns1.hellotvvod.com:9906/c178f44b52ee44e3a5a4d3b20f530e11
@@ -2864,7 +2867,7 @@ PLAYBOY,P2p://ns1.hellotvvod.com:9906/e29e313adde24d83b11f8f6d01dd286e
 一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
 粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
 俄罗斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-夜1,http://live.redtraffic.xyz:80/interracial.m3u8
+午夜1,http://live.redtraffic.xyz:80/interracial.m3u8
 午夜2,http://live.redtraffic.xyz:80/bigtits.m3u8
 午夜3,http://live.redtraffic.xyz:80/threesome.m3u8
 午夜4,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
@@ -2902,10 +2905,10 @@ K频道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
 松视2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
 松视3,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
 松视3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
-热,mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6
-热,p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
-快乐,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7
-快乐,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
+热血台,mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6
+热血台,p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
+快乐台,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7
+快乐台,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
 香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
 jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
 EvilAngel,http://212.18.115.193:3169/play/ftv/index.m3u8
@@ -3029,6 +3032,47 @@ Teen,http://live.redtraffic.xyz:80/teen.m3u8
 Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Threesome,http://cdn.adultiptv.net/threesome.m3u8
 Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
+极限电影标限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/lSQIN7ZilUt4xOM8Z8SjhLix8pcxUYVtqotEfbjMDAW45Zauexz20FgefUmXu3KH9cje5vI.flv
+彩虹电影标限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/z3vioEnnq6fazlKxOuQks8WIN82SnKr5jOVaFLxJnFR3xh0yeZAHbUoq0JC4eA85F9aVK5d.flv 
+香蕉极限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/d92V8Zz2TED1uMZLvxgjU8AQ3KkEFUrWefYwWIN82SpnedhSlSfkDvQbYMsQ6REWXm3KK7w.flv
+惊艳极限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yi4kZsc1OMsWeiwtuiom4eKg1a2sZYFOboiqWjIHjgisFU0S1U9Z6Rd3gRWIN82S5qWDX2z.flv 
+潘多拉限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/QJk9JKePxWTWIN82SF2FrI1bAg0onl3XJeEg2hJx7MEpqkqGMuiherpMMcXQWnnqH6EwDw1.flv
+奇频道限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hiHM5ncGq88mS771UGJIQdj1UQRC5zEpPvltbelG4lOCgu51gnklxR1CTWIN82S3gyRVS1D.flv
+依频道限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/6ed5wPaimtn9s2WIN82SFglbUd2W8ULyfGhhe57xXtWizhdlhViIk14eiv0MVkhczdGQDzT.flv
+松视壹限标限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yMEfUMSXGJOYWIN82SgzlTKtnLxTD2O5uQeurEwkgAR6jeQhq4Ue2eh2xqARF4Q4Mgdxjvi.flv
+松视贰限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/Ekd9LXoVeWIN82SuFi1L18mVvfVvkXiHHQkBPzGerfsHVAiEjJPoN2oGCSlKVkHdOIaB0Mt.flv
+松视叁限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/FsBKWIN82SWtpqNZ5XwtVXTY6Aj0VeGNTdCEW6eNvzPcNuSOR4Svno6yvWbeffuxXijjTCG.flv
+HAPPY限标限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/QMvkIFbhUHrffF6gYEJrE4zuyUF67AEojqE9ZCoa6jCOYst1vIVVrlv3WIN82SISmeVlwM0.flv 
+PIGOO限标限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/gQT7Pt3R07qv16IRy2GWzCz5BwOFZ75M9SFBak7ILZPhOXidtDdw94P7d18kIRToWIN82SL.flv 
+免仔哥限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/gaMW5Fw3TTPx5i0AZCleY6e1u9bYrHqmROzAYWCA2kEh7PYezHjtEdI8VqvTu9OoWwQJ0N.flv 
+免仔极限高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ga2ndJvhw9nN8gQLnzJxGUFvtsVaFmWKjsDq2BceNFU5m9uhHGbiRZTBbYmhTHTWV69cjo.flv
+兔仔麻豆高限,http://push-rtmp-hs-spe-f5.douyincdn.com/live/M0qb51izlaNBhRQY8D4e1ylh56ofnaqJUe9nzsMrdXhCUdDi1aOKp3d7Mekk5BhxJSzE78.flv
+国外壹限频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12133/index.m3u8
+国外贰限频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12134/index.m3u8
+国外叁限频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12135/index.m3u8
+国外肆限频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12136/index.m3u8
+国外伍限频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12137/index.m3u8
+国外陆限频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12138/index.m3u8
+国外柒限频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12139/index.m3u8
+国外捌限频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12140/index.m3u8
+国外玖限频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12141/index.m3u8
+国外拾限频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12142/index.m3u8
+国外拾壹频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12143/index.m3u8
+国外拾贰频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12144/index.m3u8
+国外拾叁频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12145/index.m3u8
+国外拾肆频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12146/index.m3u8
+国外拾伍频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12147/index.m3u8
+国外拾陆频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12148/index.m3u8
+国外拾柒频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12149/index.m3u8
+国外拾捌频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12150/index.m3u8
+国外拾玖频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12151/index.m3u8
+国外贰拾频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12152/index.m3u8
+国外贰壹频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12153/index.m3u8
+国外贰贰频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12154/index.m3u8
+国外贰叁频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12155/index.m3u8
+国外贰肆频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12156/index.m3u8
+国外贰伍频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12157/index.m3u8
+国外贰陆频极,http://185.156.74.115/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12158/index.m3u8
 04年极品白丝嫩足,https://t21.cdn2020.com/video/m3u8/2023/02/01/18ac5bce/index.m3u8
 18岁小嫩妹辍学做外围-田伯光,https://t21.cdn2020.com/video/m3u8/2023/04/13/d7cb73d8/index.m3u8
 18岁学妹背着男友偷情-唐伯虎,https://t21.cdn2020.com/video/m3u8/2023/03/07/7a58b113/index.m3u8
@@ -10802,7 +10846,7 @@ IT是小丑19,https://stream4k.embeddrive.net/playlists/b199e586-3a61-450e-957f-
 一本道720P48,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120315_200/index.m3u8
 一本道720P49,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112815_198/index.m3u8
 一本道720P50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112715_197/index.m3u8
-一本道720P50部,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101315_170-1pon/index.m3u8
+一本道720P50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101315_170-1pon/index.m3u8
 
 🔐步兵2K,#genre#
 Carib-012318-589,https://siwazywcdn2.com:5278/ribenwuma/sGfp8Fnj/index.m3u8
@@ -15341,6 +15385,7 @@ Feeldoe很有趣,http://60106.vod.adultiptv.net/ph55fafb92bdc00/play.m3u8
 摩洛伊斯兰解放阵线饼彙编,http://6122.vod.adultiptv.net/ph58505d49276f0/play.m3u8
 继母乱搞继子在婚礼接待夫人Fyre,http://218158.vod.redtraffic.xyz/ph57f997750eaa8/play.m3u8
 米卡谭分享女儿拉娜紫罗兰的英国广播公司,http://21470.vod.adultiptv.net/ph55de2505e09de/play.m3u8
+惊人的吹箫和热浴缸操与年轻漂亮的乌木女孩,http://13216.vod.redtraffic.xyz/ph587a13e86764a/play.m3u8
 阿鲁拉詹森和萨拉杰伊在女同性恋肛门和猫乐趣,http://13216.vod.redtraffic.xyz/ph56466ac46b3c7/play.m3u8
 巨大的自然胸部亚洲人给厚公鸡傢伙一个titfuck射液,http://21470.vod.adultiptv.net/ph5964902e70b84/play.m3u8
 欧美电影720P3,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/122214-763/index.m3u8
